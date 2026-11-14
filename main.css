@@ -1,0 +1,104 @@
+*{
+    font-family: poppines;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(0 0 0 / 80%);
+}
+.back-img{
+    background-image: url(./img/netfilx.jpg);
+    height: 700px;
+    width: 100%;
+}
+.Netfilx{
+    color: rgb(231, 46, 46);
+    padding: 10px;
+    font-size: 25px;
+}
+.btn{
+    background-color: transparent;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+.language{
+    background-color: transparent;
+    color: white;
+    width: 150px;
+}
+.sign{
+   background-color: #e42727;
+   color: white;
+   padding-top: 0px;
+}
+.email-address{
+    width: 450px;
+    background-color: transparent;
+    color: white;
+    height: 50px;
+}
+.Unlimited{
+    color: white;
+    padding-top: 300px;
+}
+.Watch{
+    color: white;
+}
+.Ready{
+    color: white;
+}
+.button{
+    background-color: #e42727;
+    width: 100px;
+    height: 50px;
+}
+ 
+.main{
+    background-color: #00081D;
+    height: 750px;
+    width: 100%;
+    color: white;
+    border: 10px solid #232323;
+    border-left: none;
+    border-right: none;
+    display: flex;
+    justify-content: center;
+}
+.right{
+    
+    width: 50%;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    padding: none;
+
+}
+.left{
+    
+    width: 50%;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+
+}
+.title{
+    align-items: center;
+    padding-left: 85px;
+}
+.Questions{
+    background-color: #00081D;
+    height: 1250px;
+    width: 100%;
+    color: white;
+    border: 10px solid #232323;
+    padding: 55px;
+
+}
+.Frequently{
+    padding: 10px;
+    width: 90%;
+    height: 70px;
+    background-color: rgb(19, 33, 68);
+    color: white;
+    border: 5px solid rgb(0 0 0 / 80%);
+}
